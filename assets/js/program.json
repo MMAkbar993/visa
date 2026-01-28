@@ -1,0 +1,174 @@
+[
+    [
+        {
+          "time": "9:30-10:00",
+          "plenary": "Opening Ceremony",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "10:00-10:30",
+          "plenary": "Welcome to the Inaugural IMS",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "10:30-11:10",
+          "plenary": "Brace for Impact: Technology Disruptors Ahead",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "Building Talent Centers of Excellence (10:40-11:40)",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "11:10-11:50",
+          "plenary": "Nation Building One Event at a Time",
+          "innovation_cluster": "Innovating the MICE Industry Mission: Ideas for Growth (11:15 – 12:45)",
+          "collaboration_hub_01": "Building Talent Centers of Excellence (10:40-11:40)",
+          "collaboration_hub_02": "Amplifying the Economic Impact of the MICE Market (11:45 - 12:45)"
+        },
+        {
+          "time": "11:50-12:50",
+          "plenary": "MICE : Balancing Innovation with TimelessAppeal",
+          "innovation_cluster": "Innovating the MICE Industry Mission: Ideas for Growth (11:15 – 12:45)",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": "Amplifying the Economic Impact of the MICE Market (11:45 - 12:45)"
+        },
+        {
+          "time": "12:50-13:25",
+          "plenary": "PCOs/PEOs Without Borders",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "Incentive Travel: Instant Gratification or Loyalty Building? (13:10 – 14:10)",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "11:50-12:50",
+          "plenary": "Break",
+          "innovation_cluster": "Designing Tomorrow’s MICE Destinations (14:00 –15:30)",
+          "collaboration_hub_01": "Incentive Travel: Instant Gratification or Loyalty Building? (13:10 – 14:10)",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "15:10-15:50",
+          "plenary": "Winning Hearts and Minds",
+          "innovation_cluster": "Designing Tomorrow’s MICE Destinations (14:00 –15:30)",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": "Spotlight on Giga Projects (14:45 - 15:45)"
+        },
+        {
+          "time": "15:50-16:05",
+          "plenary": "The Might of MICE: Elevating the Mission",
+          "innovation_cluster": "Designing Tomorrow’s MICE Destinations (14:00 –15:30)",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": "Spotlight on Giga Projects (14:45 - 15:45)"
+        },
+        {
+          "time": "16:05-16:40",
+          "plenary": "We Want More, We Want Less: Addressing Capacity Challenges",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "Enhancing Networking Value: You Came Here to Mingle (16:10 – 17:10)",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "16:40-17:15",
+          "plenary": "Leaders & Followers: Next Gen MICE Companies",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "Enhancing Networking Value: You Came Here to Mingle (16:10 – 17:10)",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "17:15-17:30",
+          "plenary": "Day 1 Closing Remarks",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        }
+      ],
+      [
+        {
+          "time": "10:00-10:10",
+          "plenary": "Day 2 Welcome",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "10:00-10:30",
+          "plenary": "Loud and Clear: Inspiration from Mega-Events",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "10:45-11:05",
+          "plenary": "Leading the MICE Ecosystem with Vision and Purpose",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "11:05-11:40",
+          "plenary": "The 8th Wonder: MICE Venues of Tomorrow",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "Going Off-Grid and Off the Map: Seeking Authentic Experiences (11:15-12:15)",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "11:40-12:15",
+          "plenary": "Don’t Tell Me When to Eat Lunch: Personalizing the Experience",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "Going Off-Grid and Off the Map: Seeking Authentic Experiences (11:15-12:15)",
+          "collaboration_hub_02": "Escaping the MICE Trap: Best Practices for Managing Tourism Growth (12:00-13:00)"
+        },
+        {
+          "time": "12:15-13:30",
+          "plenary": "Break",
+          "innovation_cluster": "Tech Tools for Audience Engagement (12:20-13:50)",
+          "collaboration_hub_01": "Changing the Game for MICE: Arenas and Fandom (12:40-13:40)",
+          "collaboration_hub_02": "Escaping the MICE Trap: Best Practices for Managing Tourism Growth (12:00-13:00)"
+        },
+        {
+          "time": "13:30-14:05",
+          "plenary": "MICE, Men and Women: Building the Work of Tomorrow",
+          "innovation_cluster": "Tech Tools for Audience Engagement (12:20-13:50)",
+          "collaboration_hub_01": "Changing the Game for MICE: Arenas and Fandom (12:40-13:40)",
+          "collaboration_hub_02": "Shakes Ups and Wakes Up of M&A and Reorg (13:40-14:40)"
+        },
+        {
+          "time": "14:05-14:40",
+          "plenary": "Feeling the Pressure Before the Heat is On: Embracing Sustainability",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": "Shakes Ups and Wakes Up of M&A and Reorg (13:40-14:40)"
+        },
+        {
+          "time": "14:40-15:15",
+          "plenary": "Ambition to Grow - Ready for Investment",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "15:15-15:50",
+          "plenary": "IMS Commits!",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "15:50-16:00",
+          "plenary": "Day 2 Closing Remarks",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        },
+        {
+          "time": "17:15-17:30",
+          "plenary": "Day 1 Closing Remarks",
+          "innovation_cluster": "",
+          "collaboration_hub_01": "",
+          "collaboration_hub_02": ""
+        }
+      ]
+]

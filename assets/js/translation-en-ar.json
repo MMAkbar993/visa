@@ -1,0 +1,60 @@
+{
+  "home_content": [
+    {
+      "item": "home_banner_heading_01",
+      "en": "Expanding Horizons",
+      "ar": "توسيع آفاق المستقبل"
+    },
+    {
+      "item": "home_banner_heading_02",
+      "en": "International Mice Summit",
+      "ar": "القمة الدولية للمعارض والمؤتمرات"
+    },
+    {
+      "item": "home_banner_date",
+      "en": "15 - 17 December 2024 | Mohammed Bin Salman Nonprofit City, Riyadh, Saudi Arabia",
+      "ar": "15-17 ديسمبر 2024 | مدينة محمد بن سلمان غير الربحية، الرياض، السعودية"
+    },
+    {
+      "item": "home_banner_comingsoon",
+      "en": "Coming Soon",
+      "ar": "قريبا ترقبوا"
+    },
+    {
+      "item": "cta_register_now",
+      "en": "Register Now",
+      "ar": "سجّل الآن"
+    },
+    {
+      "item": "about_title_01",
+      "en": "About IMS",
+      "ar": "عن القمة"
+    },
+    {
+      "item": "about_title_02",
+      "en": "When you need change. Bring the leaders to the table.",
+      "ar": "لصناعة التغيير، نجمع رواد المستقبل "
+    },
+    {
+      "item": "about_body",
+      "en": "The inaugural International MICE Summit brings together industry leaders, visionaries, and change-makers from across the global MICE ecosystem and beyond. IMS will chart a transformative path for cities and countries that recognize the MICE industry's capacity to build nations, promote prosperity, and support economic sectors. Together, we will shape MICE's future, advancing its impact beyond business as usual.",
+      "ar": "تجمع القمة الدولية للمعارض والمؤتمرات في نسختها الأولى نخبة من قادة القطاع والمبتكرين وصناع التغيير في المنظومة العالمية للمعارض والمؤتمرات وخارجها. ستضع القمة خارطة طريق تحويلية للمدن والدول المدركة لقدرة هذا القطاع  على بناء الأمم ودفع عجلة الازدهار ودعم القطاع الاقتصادي.  معاً، سنصوغ مستقبلاً جديداً لقطاع المعارض والمؤتمرات، متجاوزين حدود المألوف نحو آفاق أرحب. "
+    },
+    {
+      "item": "who_attend_title_01",
+      "en": "Who Attends",
+      "ar": "الحاضرون"
+    },
+    {
+      "item": "who_attend_title_02",
+      "en": "The IMS convenes leaders from across and beyond the entire MICE ecosystem",
+      "ar": "تجمع القمة الدولية للمعارض والمؤتمرات نخبة القادة من داخل قطاع المعارض والمؤتمرات وخارجه "
+    },
+    {
+      "item": "pillars_title_01",
+      "en": "Pillars",
+      "ar": "الركائز"
+    }
+    
+  ]
+}

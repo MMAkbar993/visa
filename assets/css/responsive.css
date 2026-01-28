@@ -1,0 +1,142 @@
+
+@media (max-width: 1920px){
+
+}
+
+@media (min-width: 1700px){
+    /* .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{max-width:1700px;} */
+    .whomeetSec .whomeetSlider .item{}
+    .bannerSec .bannerSlider figure iframe{width: 100vw;}
+    footer .navSec .navSecInner{}
+}
+
+
+
+@media (max-width: 1699px){
+    .stickyHeader header nav ul li a{padding: 20px 15px;}
+
+    body{font-size: 12px;}
+    .btn-primary{padding: 11px 20px; min-width: 220px;}
+    header .logo,
+    .stickyHeader header .logo{width: 160px;}
+
+    .whyChooseDv .secHeadingDv{max-width: 850px;}
+    .whyChooseDv .item figure{width: 70px;}
+
+    .whoCanDv .item{padding-bottom: 60px;}
+    .whoCanDv .item figure{width: 70px;}
+
+    /* .testimonialsDv .item .profileDv figure{flex: 0 0 50px;} */
+
+    .backToTop.show { right: -145px; }
+    .backToTop i{font-size: 20px;padding: 10px;}
+    .backToTop span{font-size: 16px; margin: 0;}
+    .ctaInAir a img{width: 40px;}
+}
+
+
+
+@media (max-width: 1399px){
+    .stickyHeader header nav ul li a{padding: 20px 2vw; font-size: 1vw;}
+
+}
+
+
+@media (max-width: 1200px){
+    .stickyHeader header nav ul li a{font-size:14px;}
+    body{font-size: 10px;}
+    .btn-primary{padding: 8px 15px; min-width: 170px;}
+    header .logo,
+    .stickyHeader header .logo{width: 130px;}
+    header nav ul li a{padding: 20px;}
+    header .btn-primary svg { width: 16px; height: 16px; }
+}
+
+
+
+@media (min-width: 992px){
+    
+}
+
+@media (max-width: 991px){
+
+    body{font-size: 10px;}
+   
+    header{padding: 20px 50px;}
+    header .logo{width:150px; margin: 0;}
+    
+    .viewSection{overflow: hidden;}
+
+    /* .mainBanner{padding: 90px 0 0; display: flex; align-items: center; height: 100vh; background-position-y: 60vh;} */
+    .mainBanner{padding: 100px 0 130px; background-size: 100%; background-position: center bottom;}
+    .mainBanner h2{font-size: 3em;}
+    .mainBanner .anim{display: none;}
+
+    .carouselSlider{margin-bottom: 0;}
+
+    .contentDv figure{margin-bottom: 100px;}
+
+    footer .botrow{text-align: center;}
+    footer .botrow p.links{justify-content: center;}
+
+    
+    
+}
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+
+@media (max-width: 767.98px) {
+
+   
+
+
+
+
+
+
+}
+
+@media (max-width: 575.98px) {
+    html {scroll-padding-top: 118px;}
+    header, section, footer{max-width: 100vw;}
+    header{padding:20px 10px;}
+
+    .container{padding:0 20px; position: relative; z-index: 10;}
+
+    section{padding: 50px 0;}
+
+    .mobileMenu nav ul li a{font-size: 20px;padding: 10px 0px;}
+    .mobileMenu .langSelector li a{font-size: 16px;padding: 22px 0px;}
+
+    .mainBanner p a{margin-top: 10px;}
+
+    .card-shuffle-stack{width: 100%;height: 650px; margin: 0;}
+    .card-shuffle-stack .buttons{display: block;}
+    .card-shuffle-stack:hover > .buttons.prev,
+    .card-shuffle-stack:hover > .buttons.next { animation: none; }
+    .card-shuffle-stack .item .profileDv{flex-direction: column;min-height: 450px;}
+
+    .secureVisaDv{padding-bottom: 7vh;}
+
+    footer{margin-bottom: 30px;}
+    footer .toprow h4{margin: 40px 0 20px;}
+    footer .toprow ul.iconTextList li i{font-size: 2em;}
+    .footerBar{display: flex;}
+    
+
+    .stepFormDv .formDv h2{font-size: 22px; line-height: 28px;}
+    .stepFormDv .formDv h3{font-size: 16px; line-height: 20px;}
+    .stepFormDv .innerDv{padding: 0 20px 20px;}
+    .stepFormDv .radio-option{padding: 10px 10px;}
+    .stepFormDv .option-title{font-size: 14px;}
+    .stepFormDv .actions{flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;}
+    .stepFormDv .btn{min-width: 150px;}
+    .stepFormDv .fieldDv input, .stepFormDv .fieldDv select{height: 40px; padding: 10px 10px;}
+    .stepFormDv .fieldDv select{padding: 0px 10px;}
+
+
+
+
+}

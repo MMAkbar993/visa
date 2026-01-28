@@ -1,0 +1,20 @@
+# Large media (use external hosting or Git LFS)
+vid/
+*.mp4
+*.mov
+*.avi
+*.zip
+
+# Dependencies
+/node_modules
+/vendor
+
+# Env & uploads
+.env
+/uploads
+/videos
+
+# OS & logs
+.DS_Store
+*.log
+inc/error_log
