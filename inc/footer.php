@@ -126,6 +126,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@19.1.3/dist/lazyload.min.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>window.BASE_URL = '<?php echo rtrim($dir, '/'); ?>';</script>
     <script src="<?php echo $dir; ?>assets/js/script.js?v=<?php echo $ver; ?>" defer></script>
    
 

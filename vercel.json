@@ -1,15 +1,17 @@
 {
   "version": 2,
+  "installCommand": "composer install --no-dev --optimize-autoloader",
   "functions": {
-    "**/*.php": {
+    "api/**/*.php": {
       "runtime": "vercel-php@0.5.2"
     }
   },
   "rewrites": [
-    { "source": "/privacy-policy", "destination": "/privacy-policy/index.php" },
-    { "source": "/terms-and-conditions", "destination": "/terms-and-conditions/index.php" },
-    { "source": "/thankyou", "destination": "/thankyou/index.php" },
-    { "source": "/(.*)", "destination": "/index.php" }
+    { "source": "/inc/sentMail.php", "destination": "/api/sentmail.php" },
+    { "source": "/privacy-policy", "destination": "/api/privacy-policy.php" },
+    { "source": "/terms-and-conditions", "destination": "/api/terms-and-conditions.php" },
+    { "source": "/thankyou", "destination": "/api/thankyou.php" },
+    { "source": "/(.*)", "destination": "/api/index.php" }
   ],
   "headers": [
     {

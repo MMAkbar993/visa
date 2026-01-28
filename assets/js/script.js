@@ -610,8 +610,9 @@ function stepForm() {
 
 function formSubmit(qna){
     $('#stepForm').addClass('loading');
+    var base = (typeof window.BASE_URL !== 'undefined' ? window.BASE_URL : '') || '';
     $.ajax({
-        url: 'inc/sentMail.php',
+        url: base + '/inc/sentMail.php',
         type: 'POST',
         data: {
             sendmail: 1,
@@ -623,7 +624,7 @@ function formSubmit(qna){
         },
         success: function(response) {
             // Redirect to thank you page
-            window.location.href = 'thankyou';
+            window.location.href = base + '/thankyou';
             $('#stepForm').removeClass('loading');
             console.log(response);
         },

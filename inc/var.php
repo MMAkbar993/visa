@@ -4,15 +4,20 @@ $whitelist = array(
     '::1'
 );
 
-if(!in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
+$onVercel = getenv('VERCEL') === '1';
+
+if ($onVercel) {
+    $path = '/';
+    $dir = 'https://' . ($_SERVER['HTTP_X_FORWARDED_HOST'] ?? $_SERVER['HTTP_HOST'] ?? '') . $path;
+    $docRoot = $_SERVER['DOCUMENT_ROOT'];
+} elseif (!in_array($_SERVER['REMOTE_ADDR'], $whitelist)) {
     $path = '/property-golden-visa/';
-    //$path = '/';
-    $dir = 'https://'.$_SERVER['SERVER_NAME'].$path;
+    $dir = 'https://' . $_SERVER['SERVER_NAME'] . $path;
     $docRoot = $_SERVER['DOCUMENT_ROOT'];
 } else {
     $path = '/property-golden-visa/';
-    $dir = 'http://'.$_SERVER['SERVER_NAME'].':'.$_SERVER['SERVER_PORT'].$path;
-    $docRoot = $_SERVER['DOCUMENT_ROOT'].$path;
+    $dir = 'http://' . $_SERVER['SERVER_NAME'] . ':' . $_SERVER['SERVER_PORT'] . $path;
+    $docRoot = $_SERVER['DOCUMENT_ROOT'] . $path;
 }
 
 
